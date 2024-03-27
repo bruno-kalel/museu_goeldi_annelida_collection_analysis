@@ -86,7 +86,7 @@ Analisar e visualizar os dados desta coleção é crucial para compreender a div
 
 **Informações Adicionais:**
 
-Este projeto é uma nova abordagem de um projeto inicial realizado na universidade por 4 alunos do 4º semestre de Bacharelado em Ciência da Computação no Centro Universitário do Pará - CESUPA. Você pode encontrar o projeto original [aqui](https://github.com/gabipasse/analise_de_dados_do_Museu_Paraense_Emilio_Goeldi_Annelida_Collection). Os alunos participantes da versão original são:
+Este projeto é uma nova abordagem de um projeto inicialmente realizado na universidade por 4 alunos do 4º semestre de Bacharelado em Ciência da Computação no Centro Universitário do Pará - CESUPA. Você pode encontrar o projeto original [aqui](https://github.com/gabipasse/analise_de_dados_do_Museu_Paraense_Emilio_Goeldi_Annelida_Collection). Os alunos participantes da versão original são:
 - [Bruno Kalel](https://github.com/bruno-kalel)
 - [Rafael Maranhão](https://github.com/gabipasse)
 - [Pedro Coimbra](https://github.com/pedrohccoimbra123)
