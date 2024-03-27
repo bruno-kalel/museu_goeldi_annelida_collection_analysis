@@ -1,8 +1,8 @@
 ### Museu Paraense Emílio Goeldi - Annelida Collection Analysis 🔍📊🪱
 
 ##### Table of Contents
-- [🇬🇧 English](#english)
-- [🇵🇹 Português](#português)
+- [English](#english)
+- [Português](#português)
 
 ---
 
